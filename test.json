@@ -1,0 +1,27 @@
+[
+  {
+    "email": "danij@gmail.com",
+    "password": "danifern",
+    "role": "capturist"
+  },
+  {
+    "email": "gabrielaghr@gmail.com",
+    "password": "traveler",
+    "role": "branch"
+  },
+  {
+    "email": "alej@gmail.com",
+    "password": "alefern",
+    "role": "company"
+  },
+  {
+    "email": "lizmas@gmail.com",
+    "password": "lizmg",
+    "role": "administrator"
+  },
+  {
+    "email": "rubenfr@gmail.com",
+    "password": "rubengjh",
+    "role": "Master-IT"
+  }
+]
